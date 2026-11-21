@@ -21,3 +21,5 @@
 
 # Test Results
 All test passed, seen in the photo posted Test Results.png
+
+Github test on pushes passed, seen in Github Action Results.png
