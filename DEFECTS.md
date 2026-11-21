@@ -18,3 +18,6 @@
     - This ensure that the sql calls are protected from sql injections
 8. StoreRespository.update_stock, added a check on quantity
     - This ensure that the quantity cannot be negative, so the computation won't go backwards
+
+# Test Results
+All test passed, seen in the photo posted Test Results.png
